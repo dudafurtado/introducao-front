@@ -14,22 +14,22 @@ JavaScript = comportamento e interações com a tela e lógica, "cérebro"
 ## HTML
 Existe uma lista de códigos necessários para validar a página como site:
 
-    <!DOCTYPE html>
-    <html lang="en">
-     <head>
+    <!DOCTYPE html> // Informa que está usando a versão atualizada
+    <html lang="en"> // Tag que especifica que só propriedades html que serão inseridas
+     <head> // Para informações tecnicas da paǵina. É o cabeçalho
       <meta charset="UTF-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <title>Document</title>
      </head>
-     <body>
-      <img src="" alt="">
-      <h1></h1>
-      <p></p>
-      <ul>
-       <li></li>
+     <body> // Texto, vídeo e imagem 
+      <img src="" alt=""> // Não tem conteúdo e sim atributo
+      <h1></h1> // Texto maior, em negrito e quebra uma linha 
+      <p></p> // Parágrafo
+      <ul> // Lista não ordenada. Distanciamento da borda
+       <li></li> // Itens da lista
       </ul>
-     </body>
+     </body> // Finaliza o ciclo 
     </html>
 
 ### Fork 
