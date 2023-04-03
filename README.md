@@ -15,15 +15,22 @@ JavaScript = comportamento e interações com a tela e lógica, "cérebro"
 Existe uma lista de códigos necessários para validar a página como site:
 
     <!DOCTYPE html>
-    <html lang="en">  
-    <head>  
-    <meta charset="UTF-8" />  
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
-    <title>Document</title>  
-    </head>  
-    <body></body>  
-    </html>  
+    <html lang="en">
+     <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Document</title>
+     </head>
+     <body>
+      <img src="" alt="">
+      <h1></h1>
+      <p></p>
+      <ul>
+       <li></li>
+      </ul>
+     </body>
+    </html>
 
 ### Fork 
 Serve para você criar uma cópia de um repositório. Isso tem diversas vantagens como, por exemplo, traduções. Eu posso copiar um repositório em inglês e apenas traduzir os textos; Posso copiar um repositório e fazer a minha versão do projeto; Forkar para usar um template e assim por diante. Porém a função em si do fork é criar uma cópia de um repositório para seu próprio github.
