@@ -8,7 +8,7 @@ Existe um acordo entre web e linguagnes de programação para traduzir informaç
 Exemplos de web para se ter atenção: chromi, firefox, safari, opera, samsung internet...  
 
 HTML = conteúdo, "ossos do corpo"  
-CSS = estilo, "pele do corpo" resposável pela característica e beleza 
+CSS = estilo, "pele do corpo" resposável pela característica e beleza  
 JavaScript = comportamento e interações com a tela e lógica, "cérebro"
 
 ## HTML
